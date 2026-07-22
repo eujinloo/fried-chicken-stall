@@ -30,5 +30,8 @@
 - [x] Build homepage: header, menu section, payment section, footer.
 - [x] Add placeholder DuitNow QR image (EJ to swap in real QR code later).
 - [x] Verify `npm run dev` renders correctly, mobile-width check.
-- [ ] Commit and push to GitHub.
-- [ ] Deploy to Cloudflare Pages, get live link.
+- [x] Commit and push to GitHub.
+- [x] Deploy to Cloudflare Pages, get live link.
+
+Live: https://fried-chicken-stall.pages.dev
+Repo: https://github.com/eujinloo/fried-chicken-stall
